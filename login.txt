@@ -2,5 +2,7 @@
 añado campo de email
 añado campo de contraseña
 añado un botón de Aceptar
-validación de campos
+cambiar color de fondo
+validación de email y contraseña
+desabilitar botón
 guardar el token
