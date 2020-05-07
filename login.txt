@@ -1,3 +1,4 @@
 
 añado campo de email
 añado campo de contraseña
+añado un botón de Aceptar
